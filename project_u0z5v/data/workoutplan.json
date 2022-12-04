@@ -1,0 +1,12 @@
+{
+    "exercises": [{
+        "intensity": 100,
+        "reps": 100,
+        "name": "Lat pulldown",
+        "weight": 100,
+        "calorie multiplier": 0.8,
+        "total calories": 800000
+    }],
+    "name": "workout plan",
+    "cardios": []
+}

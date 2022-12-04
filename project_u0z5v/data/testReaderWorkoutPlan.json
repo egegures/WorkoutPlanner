@@ -1,0 +1,91 @@
+{
+    "exercises": [
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Bench press",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Deadlift",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Squat",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Lat pulldown",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Biceps curl",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Shoulder press",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        },
+        {
+            "intensity": 5,
+            "reps": 15,
+            "name": "Leg press",
+            "weight": 100,
+            "calorie multiplier": 0.8,
+            "total calories": 6000
+        }
+    ],
+    "name": "workout plan",
+    "cardios": [
+        {
+            "level": 20,
+            "minutes": 10,
+            "name": "Indoor bike",
+            "calorie multiplier": 0.8,
+            "total calories": 160
+        },
+        {
+            "level": 20,
+            "minutes": 10,
+            "name": "Rowing machine",
+            "calorie multiplier": 0.8,
+            "total calories": 160
+        },
+        {
+            "level": 20,
+            "minutes": 10,
+            "name": "Stair climber",
+            "calorie multiplier": 0.8,
+            "total calories": 160
+        },
+        {
+            "level": 20,
+            "minutes": 10,
+            "name": "Treadmill",
+            "calorie multiplier": 0.8,
+            "total calories": 160
+        }
+    ]
+}
